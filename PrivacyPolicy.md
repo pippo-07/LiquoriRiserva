@@ -6,7 +6,7 @@ This Privacy Policy explains how Liquori Perfetti (the "App") handles informatio
 
 ## Who we are
 
-Developer: Antonio Ruffolo ("we", "us").
+Creators: Antonio Ruffolo, Pierpaolo Pirone.
 
 Contact: liquoricraft@gmail.com
 
@@ -112,7 +112,7 @@ Questa informativa descrive come Liquori Perfetti (l'"App") gestisce le informaz
 
 ## Chi siamo
 
-Sviluppatore: Antonio Ruffolo ("noi").
+Creatori: Antonio Ruffolo, Pierpaolo Pirone.
 
 Contatto: liquoricraft@gmail.com
 
