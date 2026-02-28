@@ -8,8 +8,8 @@ This page is the official support page for Liquori Perfetti.
 
 - Creators: Antonio Ruffolo, Pierpaolo Pirone
 - Support email: liquoricraft@gmail.com
-- Support phone: [ADD SUPPORT PHONE NUMBER]
-- Legal address: [ADD LEGAL POSTAL ADDRESS]
+- Support phone: +39 3497385176
+- Legal address: Via Austria N9, Rende, 87036, (CS), Italy
 
 ## Help request details
 
@@ -44,8 +44,8 @@ Questa e' la pagina ufficiale di supporto per Liquori Perfetti.
 
 - Creatori: Antonio Ruffolo, Pierpaolo Pirone
 - Email supporto: liquoricraft@gmail.com
-- Telefono supporto: [AGGIUNGERE NUMERO DI SUPPORTO]
-- Indirizzo legale: [AGGIUNGERE INDIRIZZO POSTALE LEGALE]
+- Telefono supporto: +39 3497385176
+- Indirizzo legale: Via Austria N9, Rende, 87036, (CS), Italy
 
 ## Dettagli da includere nella richiesta
 
